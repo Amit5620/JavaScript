@@ -1,0 +1,1 @@
+let firstName = "Amit",middleName = "Kumar",lastName = "Mondal",isMarried = false,country = "India",age = 19;
